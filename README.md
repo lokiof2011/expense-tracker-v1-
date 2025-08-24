@@ -18,5 +18,5 @@ This project was made as part of my learning journey to practice **functions, li
 ##  How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/expense-tracker-python.git
-   cd expense-tracker-python
+   git clone https://github.com/lokiof2011/expense-tracker-v1-.git
+
